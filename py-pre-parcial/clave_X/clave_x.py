@@ -58,4 +58,4 @@ enviar la url al correo balbino_a@hotmail.com
 
 # github url-->
 def getGithubUrl():
-    return ""
+    return "https://github.com/PamelaAbrego/PreParcial.git"
